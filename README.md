@@ -23,15 +23,9 @@
 
 
 <span align="center">
-<a href="https://www.linkedin.com/in/mmehroz/" target="_blank">
+<a href="https://www.linkedin.com/in/muhammad-mehroz-3b9a2312b/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/noman_ghayyur" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-  <a href="https://www.behance.net/nomighayyur" target="blank">
-<img alt="Behance" src="https://img.shields.io/badge/behance%20-%230077A5.svg?&style=for-the-badge&logo=behance&logoColor=white"/>
- </a>
   </span>
 </span>
 
