@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👯 I’m looking to collaborate on **Open source projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me **cellmehroz@gmail.com**
+- 📫 Reach me **@cellmehroz@gmail.com**
 
 
 <span align="center">
