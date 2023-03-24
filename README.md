@@ -47,7 +47,7 @@
  </p>
 </details>
 
-[![Mehroz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mmehroz&theme=github-compact)]
+![Mehroz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mmehroz&theme=github-compact)
 
 <span align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmehroz&show_icons=true&locale=en&layout=compact" alt="mmehroz" /></p>
