@@ -1,4 +1,4 @@
-![MasterHead]([https://github.com/mmehroz/mmehroz/blob/main/noman.jpg](https://avidhaus.com/images/git-cover.jpg))
+![MasterHead]([https://avidhaus.com/images/git-cover.jpg])
 <h3 align="center">A Passionate Backend Developer</h3>
 
 
