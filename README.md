@@ -1,58 +1,105 @@
 ![MasterHead](https://avidhaus.com/images/git-cover.jpg)
-<h3 align="center">A Passionate Backend Developer</h3>
 
+<h1 align="center">Hi 👋, I'm Muhammad Mehroz</h1>
+<h3 align="center">🚀 Passionate Backend Developer | Tech Lead | CTO | Cloud-Native Systems Architect</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmehroz&label=Profile%20views&color=0e75b6&style=flat" alt="mmehroz" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mmehroz&label=Profile%20Views&color=0e75b6&style=flat" alt="mmehroz" />
+</p>
 
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
+---
 
+## 👨‍💻 Professional Summary  
+Experienced **Lead Software Engineer & Former CTO** with a strong background in backend development, distributed systems, and cloud-native architecture. Skilled in designing scalable products, leading cross-functional teams, and implementing modern DevOps practices. Passionate about automation, performance optimization, and mentoring developers.
 
-<img align="right" alt="mmehroz" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+---
 
-- 🔭 I’m currently working on **CRM, Chat App & HRMS**
+## 🛠️ Technical Skills  
 
-- 🌱 I’m currently learning **Backend Development**
+**💻 Programming Languages:**  
+JavaScript, TypeScript, Java, Golang, Python, PHP, C#, VB.NET  
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+**⚡ Backend & API Frameworks:**  
+Express.js, NestJS, Fastify, Huno, Laravel, FastAPI, Spring Boot, Quarkus, Fiber, Gorilla Mux, ASP.NET, VB.NET, REST, GraphQL  
 
-- 📫 Reach me **@cellmehroz@gmail.com**
+**☁ Platforms & Runtimes:**  
+Node.js, .NET Core, .NET Framework, JVM, Go Runtime, Python Runtime  
 
+**🗄 Databases & Caching:**  
+PostgreSQL, MongoDB, Redis, MySQL, SQL Server, Firebase, SQLite, Qdrant  
 
-<span align="center">
-<h2 align="left">Connect with Me !!</h2> 
+**🚀 DevOps & Cloud:**  
+AWS (EC2, RDS, S3, Cognito, SNS, SQS, CloudFront, WAF, Amplify, Data Lake, Data Warehouse),  
+Google Cloud, Docker, Kafka, RabbitMQ, BullMQ  
 
+**🧰 Tools & Practices:**  
+Git, Microservices Architecture, Agile/Scrum, CI/CD Pipelines  
 
-<span align="center">
-<a href="https://www.linkedin.com/in/muhammad-mehroz-3b9a2312b/" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-  </span>
-</span>
+---
 
-----
+## 💼 Professional Experience  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+### 🔹 **Lead Software Engineer — Arc Inventador** | 2024 – Present  
+- Leading the development of scalable product architectures  
+- Collaborating with cross-functional teams to deliver robust solutions  
+- Conducting code reviews and enforcing best practices  
+- Designing cloud-native microservices & managing CI/CD pipelines  
 
+### 🔹 **Chief Technology Officer (CTO) — Fame iTech** | May 2023 – Jun 2024  
+- Directed technical strategy and product vision  
+- Managed multiple engineering teams and implemented Agile methodologies  
+- Designed system architecture for scalability and reliability  
+- Aligned technology goals with business objectives  
 
+### 🔹 **Manager Development — Bizz World Communications** | Oct 2020 – Dec 2023  
+- Oversaw backend system development & API management  
+- Improved database architecture & performance  
+- Implemented version control & testing best practices  
 
-<details align="center">
- <summary>🏆 <b>Github Profile Trophy</b></summary>
- <br />
- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=mmehroz&column=6&theme=darkhub"/>
-  </a>
- </p>
-</details>
+### 🔹 **Senior Software Engineer — MRM Soft** | Oct 2021 – Mar 2023  
+- Developed high-performance APIs and server-side logic  
+- Automated development workflows to boost efficiency  
+- Ensured seamless integration between backend and frontend systems  
+
+### 🔹 **Software Engineer — Digitonics Labs** | Aug 2019 – Sep 2020  
+- Built scalable web applications and refactored legacy systems  
+- Strengthened security features and enforced secure coding standards  
+
+### 🔹 **Team Lead / Software Engineer — Level3 BOS** | Apr 2018 – Aug 2020  
+- Mentored junior developers and led cross-functional teams  
+- Coordinated sprint planning and delivery  
+
+### 🔹 **Full Stack Developer — Software Island** | May 2015 – Jun 2016  
+- Developed desktop & web applications and maintained databases  
+- Delivered client-facing solutions and resolved production issues  
+
+---
+
+## 🎓 Education & Certifications  
+
+- **BSCS** – Iqra University  
+- **Diploma in Software Engineering** – Aptech Computer Education  
+- **Certification in Math, Physics & Aerodynamics** – EduLearn Air Services Academy  
+- **Google Cloud Certification:** Introduction to Generative AI  
+
+---
+
+## 📫 Connect with Me  
+
+<a href="mailto:cellmehroz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muhammad-mehroz-3b9a2312b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/mmehroz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmehroz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mmehroz&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmehroz&" alt="GitHub Streak" />
+</p>
 
 ![Mehroz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mmehroz&theme=github-compact)
-
-<span align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmehroz&show_icons=true&locale=en&layout=compact" alt="mmehroz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmehroz&show_icons=true&locale=en" alt="mmehroz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmehroz&" alt="mmehroz" /></p>
-</span
