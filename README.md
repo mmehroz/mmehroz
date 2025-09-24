@@ -1,4 +1,4 @@
-![MasterHead](https://avidhaus.com/images/git-cover.jpg)
+![MasterHead]([https://avidhaus.com/images/git-cover.jpg](https://chatgpt.com/s/m_68d415fdedd48191984557af2ef2b0d0))
 
 <h1 align="center">Hi 👋, I'm Muhammad Mehroz</h1>
 <h3 align="center">🚀 Passionate Backend Developer | Tech Lead | CTO | Cloud-Native Systems Architect</h3>
