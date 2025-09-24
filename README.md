@@ -97,9 +97,22 @@ Git, Microservices Architecture, Agile/Scrum, CI/CD Pipelines
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmehroz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mmehroz&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmehroz&" alt="GitHub Streak" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmehroz&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
-![Mehroz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mmehroz&theme=github-compact)
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mmehroz&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=mmehroz&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmehroz&theme=github-dark" alt="GitHub Activity Graph" />
+</p>
+
